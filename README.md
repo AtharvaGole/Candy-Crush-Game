@@ -2,6 +2,8 @@
 
 The game is similar to the orignal Candy Crush game. In this game there are 19 types of candies. 6 basic and the rest are special ones. By bursting the candies you will get some points. If you score more than 1000000 pints in 1 minute you win.
 
+![image](https://user-images.githubusercontent.com/40511985/41968106-0b4aa8a4-7a21-11e8-8dd6-26e01398053a.png)
+
 Rules:
 1. For the candies you need to bring 3 or more candies in a line horizontally or vertically.
 2. There 6 colors of candies and for each color there is 1 normal and 2 special candies. You will get them randomly while playing               the game. One of the special candies burst all the candies vertically or horizontally on the game grid and the other special candy bursts the candies in the near by region.
