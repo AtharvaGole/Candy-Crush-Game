@@ -1,6 +1,6 @@
 # Candy-Crush-Game
 
-The game is similar to the orignal Candy Crush game. In this game there are 19 types of candies. 6 basic and the rest are special ones. By bursting the candies you will get some points. If you score more than 1000000 pints in 1 minute you win.
+The game is similar to the orignal Candy Crush game. In this game there are 19 types of candies. 6 basic and the rest are special ones. By bursting the candies you will get some points. If you score more than 1000000 points in 1 minute you win.
 
 ![image](https://user-images.githubusercontent.com/40511985/41968106-0b4aa8a4-7a21-11e8-8dd6-26e01398053a.png)
 
